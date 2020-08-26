@@ -1,6 +1,6 @@
 # Learn M# (M-Sharp)
 
-M# is a model-driven declarative programming model intended for developing data-focused .NET web applications. M# CLI (msharp.exe) will transform everything into standard ASP.NET MVC and C# project source code. So it's safe to adopt for mission critical projects.
+M# is an model-driven declarative programming model intended for developing data-focused .NET web applications. M# CLI (msharp.exe) will transform everything into standard ASP.NET MVC and C# project source code. So it's safe to adopt for mission critical projects.
 
 This website provides you with an architectural overview, as well as detailed examples and tutorials, to help you get started with your M# journey.
 
